@@ -4,7 +4,7 @@
   "description": "",
   "main": "proxy.js",
   "scripts": {
-    "start": "node proxy.js 9000",
+    "start": "node proxy.js 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

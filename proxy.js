@@ -60,6 +60,6 @@ http.createServer(function (req, res) {
     bungieRes.pipe(res);
   }).end();
 
-}).listen(process.argv[2], function () {
+}).listen(process.argv[2],function () {
   console.log('Bungie Proxy Server running on port %s', this.address().port);
 });
