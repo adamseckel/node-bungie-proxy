@@ -1,0 +1,20 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js 9000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemlok/crucible-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemlok/crucible-proxy/issues"
+  },
+  "homepage": "https://github.com/hemlok/crucible-proxy#readme"
+}
